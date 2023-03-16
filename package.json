@@ -4,7 +4,8 @@
   "description": "This is a nodejs common functions modules. It contains error handling funtions and other middlewares.",
   "main": "build/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
   },
   "keywords": [
     "nodejs",
@@ -14,6 +15,7 @@
   "author": "Md. Istiyak Hossain",
   "license": "ISC",
   "devDependencies": {
+    "del-cli": "^5.0.0",
     "typescript": "^4.9.5"
   },
   "dependencies": {
