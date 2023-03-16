@@ -12,5 +12,11 @@
     "errors"
   ],
   "author": "Md. Istiyak Hossain",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  },
+  "dependencies": {
+    "zod": "^3.21.4"
+  }
 }
