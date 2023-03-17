@@ -1,6 +1,6 @@
 {
   "name": "@istiyakriyad/common",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "This is a nodejs common functions modules. It contains error handling funtions and other middlewares.",
   "main": "build/index.js",
   "types": "build/index.d.ts",
